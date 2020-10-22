@@ -1,12 +1,12 @@
 # Processor
 
-Date Start:
-Date End:
+Date Start: 11/26/19
+Date End: 12/5/19
 
 Language: C
 
 Required to run program: 
-- Understanding the assigned Instruction Set requirements and exectuions.
+- Understand the assigned Instruction Set requirements and exectuions, found in repository as a pdf.
 - mem_in.txt set of hexadecimal opcode values.
 - mem_out.txt is what the output file should look like. It's used for verification.
 
