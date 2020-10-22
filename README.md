@@ -9,6 +9,8 @@ Required to run program:
 - Understand the assigned Instruction Set requirements and exectuions, found in repository as a pdf.
 - mem_in.txt set of hexadecimal opcode values.
 - mem_out.txt is what the output file should look like. It's used for verification.
+- Opcode.c - MASK of all Opcodes used.
+- CPUSimulator.c - Main program.
 
 Problem: To design a simple processor based on the simplified 2-step instruction cycle. You will be creating two functions in software, one to simulate the fetch next instruction cycle, fetchNextInstruction(), and one to simulate the execute instruction cycle, executeInstruction(). Neither of these functions will have parameters nor will they return values. They will operation on global data meant to simulate the registers and memory of the processor. This simulated machine consists of four registers that will be represented in your software with four global variables.
 - PC -- Program counter (16 bit) used to hold the address of the next instruction to
