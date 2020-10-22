@@ -6,7 +6,7 @@ Date End: 12/5/19
 Language: C
 
 Required to run program: 
-- Understand the assigned Instruction Set requirements and exectuions, found in repository as a pdf.
+- Understand the assigned Instruction Set requirements and exectuions, found in Project.pdf.
 - mem_in.txt set of hexadecimal opcode values.
 - mem_out.txt is what the output file should look like. It's used for verification.
 - Opcode.c - MASK of all Opcodes used.
